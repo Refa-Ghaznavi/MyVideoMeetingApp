@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009175643195",
+    "firebase_url": "https://my-video-meeting-app.firebaseio.com",
+    "project_id": "my-video-meeting-app",
+    "storage_bucket": "my-video-meeting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009175643195:android:4d6ed12f507c16f5db081e",
+        "android_client_info": {
+          "package_name": "com.example.myvideomeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009175643195-2ut3g1c2kveu2tnilc7sshr85rs666mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDExFRCV3N5eDDnTCsCdN7A4EbSMy6zwwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009175643195-2ut3g1c2kveu2tnilc7sshr85rs666mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
